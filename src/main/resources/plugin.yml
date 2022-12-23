@@ -1,0 +1,5 @@
+name: RoosterMC
+version: '${project.version}'
+main: roostermc.roostermc.RoosterMC
+api-version: 1.19
+authors: [MattRuwe]
